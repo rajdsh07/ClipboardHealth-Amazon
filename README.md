@@ -7,19 +7,19 @@ Prerequisites:
   >=TestNG
 
 Features:
-  *Usage of Maven repository
-  *Chrome browser configured
-  *WebDriverManager configured
-  *TestNG annotations & reports
-  *Different Wait time utilized
-  *Click events
-  *Java Robot to disappear mouse
-  *Selenium Grid provision
-  *Readable console output
-  *JavaScriptExecutor configured for scrolling
-  *Select
-  *Switch tabs
-  *Windows management
+  - Usage of Maven repository
+  - Chrome browser configured
+  - WebDriverManager configured
+  - TestNG annotations & reports
+  - Different Wait time utilized
+  - Click events
+  - Java Robot to disappear mouse
+  - Selenium Grid provision
+  - Readable console output
+  - JavaScriptExecutor configured for scrolling
+  - Select
+  - Switch tabs
+  - Windows management
 
 
 Selenium Grid:
